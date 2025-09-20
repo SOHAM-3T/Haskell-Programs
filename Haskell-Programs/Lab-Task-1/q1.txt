@@ -1,0 +1,4 @@
+'a' - represents the character string 
+i.e Single character 'a' :: Char
+"a" - represents String 
+i.e "a" :: String
